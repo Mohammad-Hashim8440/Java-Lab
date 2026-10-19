@@ -1,3 +1,4 @@
+
 # ShopSphere — RTU Advanced Java E-Commerce Project
 
 A complete Java E-Commerce system built to cover the RTU Advanced Java syllabus:
@@ -252,4 +253,7 @@ ShopSphere/
 ## License
 
 Educational project — RTU Advanced Java syllabus.
+
+
+# Java-Lab
 
